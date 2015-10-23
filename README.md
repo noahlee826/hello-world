@@ -1,2 +1,3 @@
 # hello-world
-First repo
+First repo.
+Here we have some text, consisting of the first edit.
